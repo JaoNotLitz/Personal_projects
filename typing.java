@@ -1,4 +1,5 @@
-
+//estou terminando o código
+//this code is not totality ready yet
 import java.util.Random;
 import java.util.Scanner;
 import java.lang.Thread;
